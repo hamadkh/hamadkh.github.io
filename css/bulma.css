@@ -5,7 +5,9 @@ custom csss by @khawajahamad
   font-family: 'Space Mono', monospace;
   /*font-family: 'Eczar', serif;*/
 }
-
+.se{
+font-family: 'Eczar', serif;
+}
 #cursor {
 	-webkit-animation: 1s blink step-end infinite;
 	animation: 1s blink step-end infinite;
@@ -2415,7 +2417,7 @@ input[type="submit"].button {
   height: 1rem;
   overflow: hidden;
   padding: 0;
-  width: 100%;
+  width: 50%;
 }
 
 .progress:not(:last-child) {
