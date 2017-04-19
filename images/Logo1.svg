@@ -1,0 +1,52 @@
+<svg width="231" height="218" viewBox="0 0 231 218" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(170 113)" figma:type="canvas">
+<g id="Group" figma:type="frame">
+<g id="Vector 2" filter="url(#filter0_d)" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-166 -113)" fill="#FFFFFF"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-166 -113)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-166 -113)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Vector" filter="url(#filter1_d)" figma:type="vector">
+<use xlink:href="#path2_fill" transform="translate(-32 -112)" fill="#FFFFFF"/>
+<mask id="mask1_outline_ins">
+<use xlink:href="#path2_fill" fill="white" transform="translate(-32 -112)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path3_stroke_2x" transform="translate(-32 -112)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-170" y="-113" width="144" height="217" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<desc>type="dropShadow" x="0" y="4" size="4" spread="0" color="0,0,0,0.25" blend="normal"</desc>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" filterUnits="userSpaceOnUse" x="-36" y="-112" width="97" height="217" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<desc>type="dropShadow" x="0" y="4" size="4" spread="0" color="0,0,0,0.25" blend="normal"</desc>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 0 179.785L 0 0L 41.1579 0L 41.1579 89.8925L 91.2632 89.8925L 91.2632 0L 136 22.4731L 136 209L 91.2632 209L 91.2632 128.097L 41.1579 128.097L 41.1579 209L 0 179.785Z"/>
+<path id="path1_stroke_2x" d="M 0 0L 0 -5L -5 -5L -5 0L 0 0ZM 0 179.785L -5 179.785L -5 182.367L -2.89415 183.862L 0 179.785ZM 41.1579 209L 38.2637 213.077L 46.1579 218.681L 46.1579 209L 41.1579 209ZM 41.1579 128.097L 41.1579 123.097L 36.1579 123.097L 36.1579 128.097L 41.1579 128.097ZM 91.2632 128.097L 96.2632 128.097L 96.2632 123.097L 91.2632 123.097L 91.2632 128.097ZM 91.2632 209L 86.2632 209L 86.2632 214L 91.2632 214L 91.2632 209ZM 136 209L 136 214L 141 214L 141 209L 136 209ZM 136 22.4731L 141 22.4731L 141 19.3894L 138.244 18.0052L 136 22.4731ZM 91.2632 0L 93.5076 -4.46795L 86.2632 -8.10711L 86.2632 0L 91.2632 0ZM 91.2632 89.8925L 91.2632 94.8925L 96.2632 94.8925L 96.2632 89.8925L 91.2632 89.8925ZM 41.1579 89.8925L 36.1579 89.8925L 36.1579 94.8925L 41.1579 94.8925L 41.1579 89.8925ZM 41.1579 0L 46.1579 0L 46.1579 -5L 41.1579 -5L 41.1579 0ZM -5 0L -5 179.785L 5 179.785L 5 0L -5 0ZM -2.89415 183.862L 38.2637 213.077L 44.052 204.923L 2.89415 175.708L -2.89415 183.862ZM 46.1579 209L 46.1579 128.097L 36.1579 128.097L 36.1579 209L 46.1579 209ZM 41.1579 133.097L 91.2632 133.097L 91.2632 123.097L 41.1579 123.097L 41.1579 133.097ZM 86.2632 128.097L 86.2632 209L 96.2632 209L 96.2632 128.097L 86.2632 128.097ZM 91.2632 214L 136 214L 136 204L 91.2632 204L 91.2632 214ZM 141 209L 141 22.4731L 131 22.4731L 131 209L 141 209ZM 138.244 18.0052L 93.5076 -4.46795L 89.0187 4.46795L 133.756 26.9411L 138.244 18.0052ZM 86.2632 0L 86.2632 89.8925L 96.2632 89.8925L 96.2632 0L 86.2632 0ZM 91.2632 84.8925L 41.1579 84.8925L 41.1579 94.8925L 91.2632 94.8925L 91.2632 84.8925ZM 46.1579 89.8925L 46.1579 0L 36.1579 0L 36.1579 89.8925L 46.1579 89.8925ZM 41.1579 -5L 0 -5L 0 5L 41.1579 5L 41.1579 -5Z"/>
+<path id="path2_fill" d="M 30.7654 39.5405L 0 0L 0 209L 30.7654 199L 30.7654 171.719L 89 209L 74.716 161.551L 30.7654 143.476L 80.2099 92.6378L 89 48.5784L 30.7654 101.676L 30.7654 39.5405Z"/>
+<path id="path3_stroke_2x" d="M 0 0L 3.9462 -3.07043L -5 -14.5683L -5 0L 0 0ZM 30.7654 39.5405L 35.7654 39.5405L 35.7654 37.8245L 34.7116 36.4701L 30.7654 39.5405ZM 30.7654 101.676L 25.7654 101.676L 25.7654 113.001L 34.1342 105.37L 30.7654 101.676ZM 89 48.5784L 93.9034 49.5566L 96.8823 34.6251L 85.6312 44.8836L 89 48.5784ZM 80.2099 92.6378L 83.7942 96.1239L 84.8242 95.0649L 85.1132 93.6161L 80.2099 92.6378ZM 30.7654 143.476L 27.1811 139.99L 22.0276 145.288L 28.8636 148.1L 30.7654 143.476ZM 74.716 161.551L 79.5038 160.11L 78.818 157.832L 76.6179 156.927L 74.716 161.551ZM 89 209L 86.3042 213.211L 97.6821 220.495L 93.7878 207.559L 89 209ZM 30.7654 171.719L 33.4613 167.508L 25.7654 162.581L 25.7654 171.719L 30.7654 171.719ZM 30.7654 199L 32.311 203.755L 35.7654 202.632L 35.7654 199L 30.7654 199ZM 0 209L -5 209L -5 215.883L 1.5456 213.755L 0 209ZM -3.9462 3.07043L 26.8192 42.611L 34.7116 36.4701L 3.9462 -3.07043L -3.9462 3.07043ZM 25.7654 39.5405L 25.7654 101.676L 35.7654 101.676L 35.7654 39.5405L 25.7654 39.5405ZM 34.1342 105.37L 92.3688 52.2731L 85.6312 44.8836L 27.3966 97.9809L 34.1342 105.37ZM 84.0966 47.6001L 75.3065 91.6596L 85.1132 93.6161L 93.9034 49.5566L 84.0966 47.6001ZM 76.6256 89.1518L 27.1811 139.99L 34.3497 146.962L 83.7942 96.1239L 76.6256 89.1518ZM 28.8636 148.1L 72.8142 166.176L 76.6179 156.927L 32.6672 138.851L 28.8636 148.1ZM 69.9283 162.993L 84.2122 210.441L 93.7878 207.559L 79.5038 160.11L 69.9283 162.993ZM 91.6958 204.789L 33.4613 167.508L 28.0696 175.93L 86.3042 213.211L 91.6958 204.789ZM 25.7654 171.719L 25.7654 199L 35.7654 199L 35.7654 171.719L 25.7654 171.719ZM 29.2198 194.245L -1.5456 204.245L 1.5456 213.755L 32.311 203.755L 29.2198 194.245ZM 5 209L 5 0L -5 0L -5 209L 5 209Z"/>
+</defs>
+</svg>
