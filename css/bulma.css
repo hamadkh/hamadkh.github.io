@@ -1,8 +1,9 @@
 /*
 custom csss by @khawajahamad
 */
-.me{
+.me,ol{
   font-family: 'Space Mono', monospace;
+  color: white;
   /*font-family: 'Eczar', serif;*/
 }
 .se{
