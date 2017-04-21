@@ -1,0 +1,131 @@
+body {
+    background-color: #2098d1;
+    /*background-color: #18BC9C;*/
+
+    float: center;
+}
+hr {
+    border: none;
+    height: 5px;
+    border-radius: 5px 5px 5px 5px;
+    color: #FFF;
+    /* old IE */
+
+    background-color: #FFF;
+    /* Modern Browsers */
+
+    width: 50%
+}
+h1,
+p {
+    font-family: 'Monaco', 'Courier New';
+    color: white;
+    font-size: 15px;
+}
+#hp{
+  background-color:#e7e7e7;
+  height:50px;
+  padding-top:10px;
+}
+#mapdiv{
+  width:100%;
+  height: 400px;
+}
+#info{
+  height:100px;
+  text-align:center;
+  background-color:#2098d1;
+  font-size:13px;
+}
+#top {
+  text-align: center;
+}
+footer {
+    text-align: center;
+}
+.share-btn {
+    display: inline-block;
+    color: #ffffff;
+    border: none;
+    padding: 0.5em;
+    width: 4em;
+    opacity: 0.9;
+    box-shadow: 0 2px 0 0 rgba(0, 0, 0, 0.2);
+    outline: none;
+    text-align: center;
+}
+.share-btn:hover {
+    color: #eeeeee;
+}
+.share-btn:active {
+    position: relative;
+    top: 2px;
+    box-shadow: none;
+    color: #e2e2e2;
+    outline: none;
+}
+.share-btn.twitter {
+    background: #55acee;
+}
+.share-btn.google-plus {
+    background: #dd4b39;
+}
+.share-btn.facebook {
+    background: #3B5998;
+}
+.share-btn.stumbleupon {
+    background: #EB4823;
+}
+.share-btn.reddit {
+    background: #ff5700;
+}
+.share-btn.linkedin {
+    background: #4875B4;
+}
+.share-btn.email {
+    background: #444444;
+}
+.myButton {
+
+}
+#controls
+{
+  padding-left: 5px;
+}
+
+/* map legend Styles*/
+
+.my-legend .legend-title {
+   text-align: left;
+   margin-bottom: 8px;
+   font-weight: bold;
+   font-size: 90%;
+   color: white;
+   }
+ .my-legend .legend-scale ul {
+   margin: 0;
+   padding: 0;
+   float: left;
+   list-style: none;
+   }
+ .my-legend .legend-scale ul li {
+   display: block;
+   float: left;
+   width: 55px;
+   margin-bottom: 6px;
+   text-align: center;
+   font-size: 80%;
+   list-style: none;
+   color: white;
+   }
+ .my-legend ul.legend-labels li span {
+   display: block;
+   float: left;
+   height: 15px;
+   width: 55px;
+   color: white;
+   }
+   .my-legend {
+     width: 100%;
+     padding-left: 15px;
+  }

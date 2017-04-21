@@ -1,0 +1,84 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/css?family=Eczar|Space+Mono" rel="stylesheet">
+<link rel="stylesheet" href="css/bulma.css">
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
+<script src="ammap/ammap.js" type="text/javascript"></script>
+<script src="ammap/kashmirmap.js" type="text/javascript"></script>
+<link rel="stylesheet" href="css/kashmir.css" type="text/css" media="all" />
+<meta name="keywords" content="kashmir,ajk,india,pakistan,azad kashmir,free kashmir,Jammu">
+<meta name="Description" content="interactive map of kashmir">
+<title>Kashmir Map</title>
+</head>
+<body>
+  <section class="hero is-info is-fullheight">
+    <!-- Hero header: will stick at the top -->
+    <div class="hero-head">
+      <header class="nav">
+        <div class="container">
+          <div class="nav-left">
+            <a href="index.html" class="nav-item">
+              <img src="images/Logo2.png"></img>
+            </a><small>&copy 2017</small>
+          </div>
+          <span class="nav-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+          <div class="nav-right nav-menu">
+            <a href="kashmir.html" class="nav-item is-active">
+              Home
+            </a>
+            <span class="nav-item">
+              <a href="" download="kmap.svg" class="button is-success is-inverted">
+                <span class="icon">
+                  <i class="fa fa-globe"></i>
+                </span>
+                <span>Download Kashmir SVG</span>
+              </a>
+            </span>
+          </div>
+        </div>
+      </header>
+    </div>
+    <!-- Hero content: will be in the middle -->
+    <div class="hero-body">
+  <div class="container has-text-centered">
+		<b class="me"> INTERACTIVE MAP OF KASHMIR STATE </b>
+		<div class='my-legend'>
+		<div class='legend-title'></div>
+		<div class='legend-scale'>
+			<ul class='legend-labels'>
+				<li><span style='background:#66CC99;'></span>AJ&K</li>
+				<li><span style='background:#aaaaff;'></span>J&K</li>
+				<li><span style='background:#ff4d4d;'></span>G&B</li>
+			</ul>
+		</div>
+	</div>
+		<div>
+		<div id="mapdiv">
+		</div>
+		<div id="controls">
+	<input type="button" class="myButton" value="Back" onclick="goBack();" />
+</div>
+	</div>
+  </div>
+</div>
+    <!-- Hero footer: will stick at the bottom -->
+    <div class="hero-foot">
+      <nav class="tabs is-boxed is-fullwidth">
+        <div class="container">
+          <ul>
+            <li class="is-active"><a href="kashmir.html">Kashmir Map</a></li>
+            <li><a href="">About Kashmir</a></li>
+            <li><a href="">GeoJson</a></li>
+            <li><a href="">Links</a></li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </section>
+</body>
+</html>
